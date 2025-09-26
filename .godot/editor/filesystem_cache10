@@ -1,0 +1,10 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1758870128
+character_body_2d.gd::GDScript::2632878791255496173::1758869896::0::1::::<>CharacterBody2D<><>0<>0<><>::
+README.md::TextFile/TextFile::-1::1758517057::0::1::::<><><>0<>0<><>::
+::res://assets/::1758869514
+grass tileset.png::CompressedTexture2D/CompressedTexture2D::6327626722122485681::1758869398::1758869398::1::::<><><>0<>0<>29371682b9165fd47118a79811b5bad5<>res://.godot/imported/grass tileset.png-0a548d23e80b9350496c017ff7c7f60b.ctex::
+icon.svg::CompressedTexture2D/CompressedTexture2D::5154166872514422345::1758516544::1758869514::1::::<><><>0<>0<>b4ffd8cd070b40256aa2657395788ea6<>res://.godot/imported/icon.svg-56083ea2a1f1a4f1e49773bdc6d7826c.ctex::
+::res://Genres/::1758870128
+puzzle.tscn::PackedScene::7906009683775889813::1758870146::0::1::::<><><>0<>0<><>::uid://cwffc8korfshd::::res://assets/grass tileset.png<>uid://bdrnenfe3ys4l::::res://character_body_2d.gd<>uid://cfoym06bhmnsb::::res://assets/icon.svg
+::res://Scripts/::0
