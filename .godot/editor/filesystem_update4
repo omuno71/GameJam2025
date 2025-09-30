@@ -1,4 +1,7 @@
-res://character_body_2d.gd
-res://puzzle.tscn
 res://Genres/puzzle.tscn
+res://Scenes/main_menu.tscn
+res://Scenes/play_button_script.gd
+res://Scenes/puzzle.tscn
+res://Scripts/play_button_script.gd
+res://Scripts/switch_up_down.gd
 res://Scripts/character_body_2d.gd
